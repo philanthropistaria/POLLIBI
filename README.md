@@ -79,7 +79,7 @@ Play and also download the generated audio if neccessary
 
 
 🆘 Contact
-📧 Email: aatandoh56@gamil.com
+📧 Email: aatandoh56@gmail.com
 
 
 🙏 Acknowledgments
