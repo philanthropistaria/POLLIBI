@@ -15,7 +15,8 @@
 🚀 Serverless - Auto-scaling, pay-per-use infrastructure
 
 #🏗️ Architecture 
-[<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/73936a75-82d3-46f0-9045-69e881011d31" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c3f547eb-bb7c-4a3f-b372-541dc233f71c" />
+
 ]
 
 Quick Start Prerequisites AWS Account with appropriate permissions
@@ -61,3 +62,5 @@ Play and also download the generated audio if neccessary
 Amazon Polly team for amazing TTS technology
 
 HashiCorp for Terraform IaC tools
+
+Chatgpt
