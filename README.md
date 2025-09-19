@@ -51,6 +51,8 @@ Choose output format
 Click "Generate Speech"
 
 Play and also download the generated audio if neccessary
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/2c5f61fe-98be-44ec-9ee4-8886d68f8070" />
+
 
 🆘 Contact 📧 Email: aatandoh56@gmail.com
 
